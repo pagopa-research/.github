@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="logo.svg" width="180" height="50">
+    <img src="https://raw.githubusercontent.com/pagopa-research/.github/e95a6749594156adf6bc2d2def8fb1d9cae6e3a7/profile/logo.svg" width="180" height="50">
 </p>
 
 <p align="center">
